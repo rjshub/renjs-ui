@@ -1,0 +1,15 @@
+/* 导航 */
+.el-menu--collapse>div>.el-submenu>.el-submenu__title .el-icon-arrow-right {
+    display: none;
+  }
+.el-menu--vertical > .el-menu {
+  margin: 0;
+  background: #343D55;
+}
+.el-menu--vertical > .el-menu > .el-menu-item .nav-title {
+  display: block !important;
+  color: #FFF;
+}
+.el-menu--vertical > .el-menu > .el-menu-item:hover {
+  background: #0bb3b3;
+}
